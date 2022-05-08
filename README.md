@@ -1,7 +1,7 @@
 Hi 👋 My name is Eran Yonai
 ===========================
 
-Python Developer, QA Master.
+Python Developer, Deep knowledge in QA.
 ----------------------------
 
 * 🌍  I'm based in Israel
