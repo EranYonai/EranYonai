@@ -6,7 +6,6 @@ Python Developer, Deep knowledge in QA.
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at GitHub PM, will give personal email on request.
-* 🧠  I'm currently learning TypeScript
 
 ### Skills
 
